@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8f7834b8-a342-4f43-9028-7d158d95ab7a": {
+      "ProjectGuid": "8f7834b8-a342-4f43-9028-7d158d95ab7a",
+      "DisplayName": "TcpChat",
+      "ColorIndex": 0
+    },
+    "c85a443d-8660-4765-9550-7d07be78cc57": {
+      "ProjectGuid": "c85a443d-8660-4765-9550-7d07be78cc57",
+      "DisplayName": "Tcp_Client",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

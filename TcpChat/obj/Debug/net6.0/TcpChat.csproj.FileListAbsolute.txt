@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\TcpChat\TcpChat\bin\Debug\net6.0\TcpChat.exe
+C:\Users\Hp\source\repos\TcpChat\TcpChat\bin\Debug\net6.0\TcpChat.deps.json
+C:\Users\Hp\source\repos\TcpChat\TcpChat\bin\Debug\net6.0\TcpChat.runtimeconfig.json
+C:\Users\Hp\source\repos\TcpChat\TcpChat\bin\Debug\net6.0\TcpChat.dll
+C:\Users\Hp\source\repos\TcpChat\TcpChat\bin\Debug\net6.0\ref\TcpChat.dll
+C:\Users\Hp\source\repos\TcpChat\TcpChat\bin\Debug\net6.0\TcpChat.pdb
+C:\Users\Hp\source\repos\TcpChat\TcpChat\obj\Debug\net6.0\TcpChat.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\TcpChat\TcpChat\obj\Debug\net6.0\TcpChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\TcpChat\TcpChat\obj\Debug\net6.0\TcpChat.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\TcpChat\TcpChat\obj\Debug\net6.0\TcpChat.AssemblyInfo.cs
+C:\Users\Hp\source\repos\TcpChat\TcpChat\obj\Debug\net6.0\TcpChat.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\TcpChat\TcpChat\obj\Debug\net6.0\TcpChat.dll
+C:\Users\Hp\source\repos\TcpChat\TcpChat\obj\Debug\net6.0\ref\TcpChat.dll
+C:\Users\Hp\source\repos\TcpChat\TcpChat\obj\Debug\net6.0\TcpChat.pdb
+C:\Users\Hp\source\repos\TcpChat\TcpChat\obj\Debug\net6.0\TcpChat.genruntimeconfig.cache
